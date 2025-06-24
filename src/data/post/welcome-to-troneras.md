@@ -54,4 +54,4 @@ Thank you for joining me on this journey. Let's explore, learn, and grow togethe
 
 ---
 
-*This blog is built with Astro and Tailwind CSS, focusing on performance, accessibility, and clean design. I believe in using the right tools for the job, and these technologies help me create a fast, beautiful, and maintainable blog.* 
+_This blog is built with Astro and Tailwind CSS, focusing on performance, accessibility, and clean design. I believe in using the right tools for the job, and these technologies help me create a fast, beautiful, and maintainable blog._
