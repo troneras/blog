@@ -84,8 +84,8 @@ I may update this Privacy Policy from time to time. I will notify you of any cha
 
 If you have any questions about this Privacy Policy, you can contact me:
 
-- **Email**: hello@troneras.com
-- **X (Twitter)**: @troneras
+- **Email**: hello@_troneras.com
+- **X (Twitter)**: @\_troneras
 - **GitHub**: github.com/troneras
 
 ---

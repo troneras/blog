@@ -19,12 +19,12 @@ metadata:
     site_name: Troneras
     images:
       - url: '~/assets/images/default.png'
-        width: 1200
-        height: 628
+        width: 943
+        height: 562
     type: website
   twitter:
-    handle: '@troneras'
-    site: '@troneras'
+    handle: '@_troneras'
+    site: '@_troneras'
     cardType: summary_large_image
 
 i18n:

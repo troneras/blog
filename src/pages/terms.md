@@ -53,8 +53,8 @@ These terms and conditions are governed by and construed in accordance with the 
 
 If you have any questions about these Terms of Service, you can contact me:
 
-- **Email**: hello@troneras.com
-- **X (Twitter)**: @troneras
+- **Email**: hello@_troneras.com
+- **X (Twitter)**: @\_troneras
 - **GitHub**: github.com/troneras
 
 ---

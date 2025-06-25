@@ -116,9 +116,9 @@ This project is open source and available under the [MIT License](LICENSE.md).
 ## Connect
 
 - **Blog**: [troneras.com](https://troneras.com)
-- **X (Twitter)**: [@troneras](https://x.com/troneras)
+- **X (Twitter)**: [@\_troneras](https://x.com/troneras)
 - **GitHub**: [github.com/troneras](https://github.com/troneras)
-- **Email**: hello@troneras.com
+- **Email**: hello@_troneras.com
 
 ---
 
